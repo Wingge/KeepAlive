@@ -1,0 +1,6 @@
+[submodule "ProtectService"]
+	path = ProtectService
+	url = https://github.com/Wingge/ProtectService.git
+[submodule "ProtectClient"]
+	path = ProtectClient
+	url = https://github.com/Wingge/ProtectClient.git
