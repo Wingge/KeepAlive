@@ -26,7 +26,7 @@ https://juejin.im/post/5baedde6f265da0a8d369eb2
 
 2.其中ProtectService，独立一个程序（需修改client的包名及client服务类全名）
 
-3.rotectClient代码拷到自己开发的程序中（需注意前台服务channel,channnelName,notificationId不要和ProtectService一样，避免冲突）。
+3.ProtectClient代码拷到自己开发的程序中（需注意前台服务channel,channnelName,notificationId不要和ProtectService一样，避免冲突）。
 
 4.如果你的程序有开屏UI，可以替换OnePiexlActivity作为开屏前台UI.
 
